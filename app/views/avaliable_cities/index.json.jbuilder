@@ -1,0 +1,1 @@
+json.avaliable_cities @avaliable_cities
